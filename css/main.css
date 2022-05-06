@@ -1,0 +1,16 @@
+header {
+  background-color: lime; }
+  header nav {
+    text-align: center; }
+    header nav .primer-ancla {
+      color: aquamarine; }
+    header nav a {
+      font-family: Verdana, Geneva, Tahoma, sans-serif; }
+      header nav a:hover {
+        color: white; }
+
+footer {
+  background-color: lightsalmon;
+  text-align: center; }
+  footer:hover {
+    background-color: salmon; }
